@@ -3,8 +3,7 @@
   if (!form) return;
 
   const recruiterTypes = new Set([
-    'Recruiter',
-    'Recruitmentspecialist',
+    'Recruitment professional',
     'Recruitmentbureau',
     'Interne recruiter'
   ]);

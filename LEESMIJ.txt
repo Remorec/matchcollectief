@@ -1,9 +1,13 @@
-MATCHCOLLECTIEF WEBSITE V8 – 14 september 2026
+MATCHCOLLECTIEF WEBSITE V9 – 17 september 2026
 
 Upload naar de hoofdmap van de GitHub-repository en vervang gelijknamige bestanden.
 Laat CNAME en .nojekyll staan.
 
 Nieuw/aangepast:
+- bovenste Founding Member-balk op alle pagina's verwijderd
+- homepage: 30 Founding Members benoemd als basis, met uitnodiging voor uitbreiding
+- aanmelden.html: vier typen aanmelders en aparte velden voor voor- en achternaam
+- aanmelden.html: persoonlijke beoordeling en contact binnen twee werkdagen verduidelijkt
 - aanmelden.html: nieuw compact aanmeldformulier, gekoppeld aan Formspree
 - bedankt.html: eigen bevestigingspagina na een geslaagde aanmelding
 - assets/aanmelden.js: conditionele Recruitercode-vraag, voorinvulling betaalkeuze en verzending
@@ -22,7 +26,7 @@ Nieuw/aangepast:
 - assets/MatchCollectief-Regels-Formats-VS5-augustus-2026.pdf: officiële bronversie
 
 Cijfers op homepage:
-Onder het blok '30 recruitment professionals en werkgevers hebben zich al aangesloten' staat in de HTML een onderhoudscommentaar. Voeg pas metrics toe als Dick controleerbare/substantiële cijfers aanlevert voor vacatures, kandidaat-profielen en samenwerkingen/plaatsingen.
+Onder het blok '30 Founding Members legden de basis voor MatchCollectief' staat in de HTML een onderhoudscommentaar. Voeg pas metrics toe als Dick controleerbare/substantiële cijfers aanlevert voor vacatures, kandidaat-profielen en samenwerkingen/plaatsingen.
 
 Resultatenblok:
 Bewust nog NIET gepubliceerd. Bij elke toekomstige update opnieuw vragen of er inmiddels controleerbare cases en een ledenervaring beschikbaar zijn.
