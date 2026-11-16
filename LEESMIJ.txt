@@ -37,3 +37,14 @@ https://www.matchcollectief.nl/aanmelden.html
 Optioneel bron vastleggen in de aanmeldmail:
 https://www.matchcollectief.nl/aanmelden.html?bron=linkedin
 Vervang "linkedin" bijvoorbeeld door "e-mail" of een herkenbare campagnenaam.
+
+
+Afbeeldingen hersteld – 16 november 2026:
+- index.html: member-network.webp bij de uitleg over samenwerking.
+- voor-recruiters.html: recruiter-candidate.webp in het introductieblok.
+- voor-werkgevers.html: employer-vacancy.webp in het introductieblok.
+- Iedere herstelde foto staat eenmaal op de website. Bestaande portretfoto en netwerkdiagram behouden.
+- Beschrijvende alt-teksten, expliciete afmetingen, volledige beeldverhoudingen en een mobiele eenkolomsindeling.
+- Netwerkfoto onder de eerste schermweergave laadt uitgesteld; introductiefoto's laden direct.
+- Bestaande teksten, formulieren en publicatiewerkwijze behouden.
+- Historie: V4 en de daaropvolgende uploads vergeleken; V5/V6 zijn niet afzonderlijk gelabeld in GitHub.

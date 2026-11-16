@@ -227,3 +227,10 @@ footer{background:var(--navy);color:#DDE5ED;padding:44px 0 22px}
 .success-mark{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:var(--green-soft);color:var(--green);font-size:30px;font-weight:900;margin:0 auto 17px}
 @media(max-width:880px){.form-layout{grid-template-columns:1fr}.form-aside{position:static}.form-aside-card{max-width:none}}
 @media(max-width:650px){.form-hero{padding:42px 0 36px}.form-hero h1{font-size:34px}.form-main{padding:30px 0 54px}.form-section,.form-submit-area{padding:22px 18px}.form-section-heading h2{font-size:20px}.choice-grid,.choice-grid-wide,.payment-grid,.form-grid{grid-template-columns:1fr}.form-field-full{grid-column:auto}.inline-choices{flex-direction:column;gap:9px}.thank-you-main{padding:46px 0}.thank-you-card{padding:30px 20px}.thank-you-card .btn{width:100%}}
+
+/* Herstelde fotografie: volledige beelden, met behoud van de beeldverhouding. */
+.editorial-visual{min-width:0;overflow:hidden;border:1px solid var(--line);border-radius:18px;background:var(--paper);box-shadow:var(--shadow)}
+.editorial-visual img{display:block;width:100%;height:auto}
+.network-story{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:36px;align-items:center}
+.network-story .desire-inner{min-width:0}
+@media(max-width:880px){.network-story{grid-template-columns:1fr;gap:28px}}
